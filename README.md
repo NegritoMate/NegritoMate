@@ -1,53 +1,21 @@
-<h2 align="left">Hi 👋! My name is Mateo and I'm a UX / UI Designer, from Argentina</h2>
+### Hi there 👋, My name is Mateo
+#### I am UX / UI Designer
 
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NegritoMate.NegritoMate&"  />
-</div>
+Skills: Figma / Framer / Illustrator/ React / CSS 
 
-###
+- 🔭 I’m currently working on Portfolio Proyect 
+- 🌱 I’m currently learning Code 
+- 👯 I’m looking to collaborate on Real Proyects 
+- ⚡ Fun fact: Obsesionado con el chocolate 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NegritoMate/NegritoMate/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NegritoMate/NegritoMate/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NegritoMate/NegritoMate/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-###
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NegritoMate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/netomateo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/neto.mateo/)  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+[![trophy](https://github-profile-trophy.vercel.app/?username=NegritoMate)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NegritoMate&show_icons=true)  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+![GitHub metrics](https://metrics.lecoq.io/NegritoMate)  
 
-###
+![GitHub streak stats](https://streak-stats.demolab.com/?user=NegritoMate)  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-###
